@@ -1,0 +1,19 @@
+# Archivos generados por el pipeline (se recrean con: python run_pipeline.py)
+data/processed/
+powerbi/datos/
+data/raw/ventas.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Power BI / Excel temporales
+~$*
+*.pbix.bak
+
+# Sistema
+.DS_Store
+Thumbs.db

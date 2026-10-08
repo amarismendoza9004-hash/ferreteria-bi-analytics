@@ -1,0 +1,359 @@
+sku,descripcion,categoria,marca,unidad,costo,precio_venta,proveedor_id,stock_minimo
+TOR-0062,"Tornillo Fiero 1/4"" x 1""",Tornillería,Fiero,CAJA,8.08,11.9,5,4
+PLO-0005,"Conector flexible Foset 2""",Plomería,Foset,PZA ,33.99,46.9,2,24
+CON-0029,Varilla Cruz Azul,Construcción,Cruz Azul,BULTO,42.76,52.9,6,21
+SEG-0003,Guantes 3M Talla G,Seguridad,3M,PZA ,$123.87,183.9,1,24
+PLO-0019,Manguera Coflex 15 m,Plomería,Coflex,MT,41.64,61.9,2,11
+JAR-0024,,Jardinería,Rugo,PZA,109.53,151.9,7,11
+HER-0016,"Rotomartillo Pretul 24""",Herramientas,Pretul,pz,780.83,1033.9,1,13
+PLO-0020,"Llave de paso Coflex 1/2""",Plomería,Coflex,PZA,128.06,170.9,2,16
+CON-0015,Alambre recocido Holcim,Construcción,Holcim,BULTO,538.91,651.9,6,31
+ELE-0041,Foco LED Iusa 9 W,Eléctrico,Iusa,PZA,11.94,14.9,3,33
+PLO-0045,"Válvula esfera Coflex 2""",Plomería,Coflex,PZA,16.89,13.74,2,36
+CON-0024,Pegazulejo Cruz Azul 50 kg,Construcción,Cruz Azul,BULTO,347.02,378.9,6,10
+TOR-0048,"Rondana Fischer #8 x 1""",Tornillería,Fischer,CAJA,79.0,124.9,5,34
+JAR-0003,Tijera podar Truper Mango largo,Jardinería,Truper,PZA,36.1,46.9,1,31
+ELE-0036,Cinta aislar Argos cal. 14,Eléctrico,Argos,Pieza,422.6,555.9,3,38
+ELE-0043,Clavija Argos 9 W,Eléctrico,Argos,PZA,12.64,16.9,3,32
+TOR-0041,"Pija Fischer 1/4"" x 1""",Tornillería,Fischer,CAJA,23.9,37.9,1,35
+TOR-0002,"Tornillo Fiero #8 x 1""",Tornillería,Fiero,CAJA,65.61,101.9,1,25
+PIN-0013,"Thinner Pintumex 2""",Pinturas,Pintumex,PZA,266.5,361.9,4,32
+PLO-0018,Regadera Rotoplas 15 m,Plomería,Rotoplas,PZA,539.49,731.9,2,21
+PIN-0014,Sellador Pintumex 4 L,Pinturas,Pintumex,pz,1292.21,1671.9,4,33
+CON-0002,"Block Holcim 3/8""",Construcción,Holcim,BULTO,263.87,331.9,6,16
+CON-0010,Arena (bulto) Cemex,Construcción,Cemex,BULTO,173.4,219.9,6,19
+HER-0034,"Flexómetro Pretul 1/2""",Herramientas,Pretul,PZA,1292.13,1673.9,1,33
+IMP-0014,Sellador elastomérico Fester 19 L,Impermeabilizantes,Fester,PZA ,304.05,369.9,8,17
+TOR-0058,"Rondana Fiero #8 x 1""",Tornillería,Fiero,CAJA,9.1,13.9,5,4
+PIN-0021,Pintura vinílica Comex 19 L,Pinturas,Comex,PZA,853.42,1073.9,4,18
+IMP-0001,Membrana refuerzo Thermotek,Impermeabilizantes,Thermotek,pz,1821.37,2506.9,4,30
+HER-0026,Pinza Urrea 16 oz,Herramientas,Urrea,PZA ,131.56,188.9,1,15
+PLO-0036,"Tubo PVC Foset 2""",Plomería,Foset,MT,593.64,838.9,2,15
+CON-0034,"Arena (bulto) Holcim 3/8""",Construcción,Holcim,BULTO,133.05,165.9,6,10
+HER-0010,Esmeriladora Hermex 8 m,Herramientas,Hermex,PZA,215.82,302.9,1,17
+IMP-0023,Impermeabilizante acrílico 19L Fester 4 L,Impermeabilizantes,Fester,PZA,"$1,257.77",1600.9,8,31
+PIN-0022,"Thinner Comex 2""",Pinturas,Comex,PZA,306.88,387.9,4,11
+ELE-0030,,Eléctrico,Iusa,PZA,396.38,594.9,3,20
+PLO-0002,"Cople cobre Coflex 3/4""",Plomería,Coflex,PZA,538.51,798.9,2,25
+HER-0023,Desarmador Urrea 5 m,Herramientas,Urrea,PZA,229.32,312.9,1,10
+IMP-0027,Impermeabilizante acrílico 19L Fester 19 L,Impermeabilizantes,Fester,PZA ,250.31,329.9,8,31
+ELE-0011,Lámpara LED Bticino cal. 12,Eléctrico,Bticino,PZA,77.57,108.9,3,14
+ELE-0007,Centro de carga Volteck 20 A,Eléctrico,Volteck,PZA,1090.57,1461.9,3,9
+TOR-0020,"Taquete Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,59.06,88.9,1,30
+HER-0031,Taladro Hermex,Herramientas,Hermex,Pieza,129.64,166.9,1,36
+SEG-0006,Cubrebocas 3M,Seguridad,3M,PZA,71.31,99.9,5,25
+ELE-0025,Tubo conduit Bticino cal. 14,Eléctrico,Bticino,m,371.94,518.9,3,5
+PIN-0031,"Brocha Comex 4""",Pinturas,Comex,PZA,706.86,1003.9,4,9
+TOR-0070,"Rondana Fischer #10 x 1 1/2""",Tornillería,Fischer,CAJA,52.81,87.9,5,3
+PLO-0018,Regadera Rotoplas 15 m,Plomería,Rotoplas,PZA,539.49,731.9,2,21
+HER-0006,"Juego de llaves Truper 1/2""",Herramientas,Truper,PZA,93.02,127.9,1,20
+PLO-0008,"Conector flexible Dica 1""",Plomería,Dica,PZA ,$145.65,204.9,2,3
+TOR-0064,"Ancla Hermex 2 1/2""",Tornillería,Hermex,caja,1.56,1.9,1,30
+JAR-0006,Carretilla Truper Mango largo,Jardinería,Truper,Pieza,32.4,42.9,7,8
+JAR-0015,Carretilla Rugo 5 pies3,Jardinería,Rugo,PZA ,355.23,477.9,1,18
+TOR-0047,"Ancla Fischer #8 x 1""",Tornillería,Fischer,CAJA,13.56,21.9,5,19
+PLO-0041,"Manguera Foset 1/2""",Plomería,Foset,MT,15.77,22.9,2,28
+IMP-0009,Impermeabilizante 10 años Comex,Impermeabilizantes,Comex,pza,1266.45,1659.9,8,10
+TOR-0059,"Ancla Hermex #8 x 1""",Tornillería,Hermex,Cja,53.72,80.9,1,37
+HER-0004,Esmeriladora Pretul,Herramientas,Pretul,PZA,99.65,139.9,1,23
+ELE-0033,Foco LED Volteck cal. 14,Eléctrico,Volteck,PZA,847.93,1197.9,3,3
+PLO-0039,"Cespol Dica 2""",Plomería,Dica,PZA,70.04,103.9,2,20
+CON-0018,Mortero Deacero 25 kg,Construcción,Deacero,BULTO,72.75,86.9,6,31
+PLO-0026,,Plomería,Rotoplas,MT,50.58,74.9,2,28
+PLO-0009,"Cople cobre Coflex 2""",Plomería,Coflex,PZA,783.79,1185.9,2,18
+TOR-0049,"Tornillo Fischer 2 1/2""",Tornillería,Fischer,CAJA,38.51,64.9,1,26
+PLO-0040,"Flotador Dica 1""",Plomería,Dica,pz,488.06,676.9,2,7
+PLO-0035,"Regadera Coflex 2""",Plomería,Coflex,PZA,221.75,321.9,2,6
+ELE-0001,Cable THW Volteck cal. 12,Eléctrico,Volteck,MT,181.9,236.9,3,4
+IMP-0024,Membrana refuerzo Comex 19 L,Impermeabilizantes,Comex,PZA,1881.01,2292.9,4,38
+TOR-0037,"Remache Hermex #8 x 1""",Tornillería,Hermex,CAJA,36.19,56.9,1,19
+TOR-0066,"Pija Hermex #8 x 1""",Tornillería,Hermex,CAJA,36.52,57.9,1,6
+ELE-0010,Pastilla térmica Argos 20 A,Eléctrico,Argos,pza,96.8,145.9,3,17
+ tor-0067 ,"Taquete Fiero 1/4"" x 1""",Tornillería,Fiero,CAJA,6.74,10.9,1,34
+TOR-0035,"Clavo Fischer 1/4""",Tornillería,Fischer,CAJA,23.56,34.9,5,5
+SEG-0024 ,Casco Truper 50 mm,Seguridad,Truper,PZA,127.84,183.9,1,21
+IMP-0012,Impermeabilizante acrílico 19L Comex 19 L,Impermeabilizantes,Comex,PZA,1724.63,2181.9,8,5
+TOR-0024,"Rondana Hermex 2 1/2""",Tornillería,Hermex,CAJA,5.08,7.9,1,12
+PLO-0038,"Teflón Rotoplas 2""",Plomería,Rotoplas,PZA,297.57,402.9,2,17
+TOR-0032,"Tuerca Hermex 1/4""",Tornillería,Hermex,CAJA,2.76,3.9,1,19
+TOR-0004,"Ancla Fiero #10 x 1 1/2""",Tornillería,Fiero,CAJA,11.75,17.9,5,32
+HER-0017,"Caladora Surtek 1/2""",Herramientas,Surtek,PZA,1318.04,1726.9,1,18
+PLO-0029,"Codo PVC Coflex 1""",Plomería,Coflex,PZA,508.84,714.9,2,28
+PIN-0006,Sellador Comex 1 L,Pinturas,Comex,PZA,1785.25,2219.9,4,24
+HER-0008,"Juego de llaves Truper 3/8""",Herramientas,Truper,pz,411.34,534.9,1,7
+IMP-0016,Impermeabilizante acrílico 19L Comex 4 L,Impermeabilizantes,Comex,PZA,1002.22,1289.9,4,37
+PIN-0026,Pintura vinílica Berel 4 L,Pinturas,Berel,PZA,1078.62,1429.9,4,24
+SEG-0019,Chaleco Hermex Talla M,Seguridad,Hermex,PZA,$454.41,667.9,1,4
+IMP-0013,Impermeabilizante 5 años Fester 19 L,Impermeabilizantes,Fester,PZA,2071.59,2708.9,4,37
+TOR-0011,"Rondana Hermex 1/4""",Tornillería,Hermex,CAJA,18.44,29.9,5,17
+PIN-0032,Aerosol Comex 1 L,Pinturas,Comex,PZA,452.18,596.9,4,35
+ELE-0026,Lámpara LED Volteck cal. 14,Eléctrico,Volteck,PZA,769.19,1081.9,3,9
+CON-0036,Varilla Holcim 50 kg,Construcción,Holcim,BULTO,543.58,620.9,6,36
+PLO-0023,Cople cobre Coflex 15 m,Plomería,Coflex,PZA,123.16,182.9,2,22
+ELE-0031,Pastilla térmica Iusa cal. 14,Eléctrico,Iusa,PZA,585.97,764.9,3,24
+IMP-0018,Membrana refuerzo Fester,Impermeabilizantes,Fester,PZA,1560.49,1905.9,8,38
+ELE-0027,Contacto Bticino cal. 14,Eléctrico,Bticino,PZA,165.7,204.9,3,21
+CON-0017,Block Deacero 25 kg,Construcción,Deacero,BULTO,114.94,151.9,6,14
+TOR-0068,"Taquete Fiero #10 x 1 1/2""",Tornillería,Fiero,CAJA,6.56,9.9,1,39
+HER-0018,Desarmador Truper 8 m,Herramientas,Truper,PZA ,392.22,517.9,1,29
+PIN-0019,"Rodillo Comex 9""",Pinturas,Comex,PZA,229.26,311.9,4,14
+HER-0025,Desarmador Urrea,Herramientas,Urrea,pz,106.98,145.9,1,27
+ELE-0018,Tubo conduit Iusa 20 A,Eléctrico,Iusa,MT,38.32,53.9,3,5
+SEG-0016,Chaleco Hermex Talla M,Seguridad,Hermex,PZA,28.69,43.9,5,7
+CON-0026,Pegazulejo Cruz Azul 25 kg,Construcción,Cruz Azul,BULTO,53.03,66.9,6,21
+JAR-0016,Rastrillo Rugo 5 pies3,Jardinería,Rugo,PZA,103.79,143.9,1,31
+PIN-0011,"Brocha Berel 9""",Pinturas,Berel,PZA,447.46,597.9,4,30
+PIN-0029,Charola Pintumex 1 L,Pinturas,Pintumex,PZA,909.26,1223.9,4,14
+TOR-0063,"Rondana Fischer #8 x 1""",Tornillería,Fischer,caja,2.02,2.9,5,12
+ELE-0033,Foco LED Volteck cal. 14,Eléctrico,Volteck,PZA,847.93,1197.9,3,3
+CON-0006,"Cemento Cemex 3/8""",Construcción,Cemex,BULTO,65.36,78.9,6,27
+CON-0022,Cemento Cemex,Construcción,Cemex,BULTO,159.64,201.9,6,19
+SEG-0013,Candado Hermex Talla M,Seguridad,Hermex,PZA,85.94,115.9,1,16
+SEG-0018,Candado Truper,Seguridad,Truper,Pieza,51.18,73.9,1,3
+TOR-0031,"Rondana Hermex #10 x 1 1/2""",Tornillería,Hermex,CAJA,5.15,7.9,5,27
+ her-0020 ,Serrucho Surtek 5 m,Herramientas,Surtek,PZA,108.17,136.9,1,16
+JAR-0008,"Aspersor Rugo 8""",Jardinería,Rugo,PZA,103.89,136.9,1,20
+PLO-0042,Manguera Rotoplas 15 m,Plomería,Rotoplas,m,91.75,130.9,2,19
+CON-0039,Malla electrosoldada Deacero 50 kg,Construcción,Deacero,bulto,88.8,101.9,6,10
+HER-0019,"Caladora Truper 3/8""",Herramientas,Truper,PZA,371.56,498.9,1,28
+JAR-0017,Aspersor Rugo Mango largo,Jardinería,Rugo,PZA,142.5,203.9,7,21
+ELE-0021,Cinta aislar Iusa cal. 12,Eléctrico,Iusa,PZA ,403.04,542.9,3,39
+ jar-0005 ,Rastrillo Rugo,Jardinería,Rugo,PZA,206.55,289.9,1,39
+ELE-0035,,Eléctrico,Iusa,PZA,98.36,133.9,3,25
+HER-0032,Nivel Surtek,Herramientas,Surtek,PZA ,774.16,1126.9,1,13
+HER-0037,Rotomartillo Hermex 16 oz,Herramientas,Hermex,PZA,477.21,681.9,1,36
+PIN-0027,Sellador Berel 19 L,Pinturas,Berel,PZA,831.52,1052.9,4,9
+TOR-0016,"Tornillo Fiero 2 1/2""",Tornillería,Fiero,CAJA,22.74,32.9,1,7
+IMP-0019,Impermeabilizante 10 años Thermotek 19 L,Impermeabilizantes,Thermotek,PZA,1319.75,1676.9,4,11
+JAR-0011,Rastrillo Rugo,Jardinería,Rugo,pz,1157.39,1520.9,1,6
+TOR-0007,"Taquete Fiero #8 x 1""",Tornillería,Fiero,CAJA,33.5,51.9,5,26
+JAR-0012,Carretilla Pretul,Jardinería,Pretul,PZA ,149.42,177.9,1,6
+PLO-0022,"Tubo PVC Dica 3/4""",Plomería,Dica,mt,364.85,511.9,2,32
+ELE-0028,Foco LED Volteck,Eléctrico,Volteck,PZA,211.67,289.9,3,34
+IMP-0020,Impermeabilizante 10 años Thermotek 19 L,Impermeabilizantes,Thermotek,PZA,861.38,1176.9,8,15
+HER-0007,"Caladora Surtek 1/2""",Herramientas,Surtek,PZA,245.56,319.9,1,38
+IMP-0017 ,Impermeabilizante 10 años Thermotek 4 L,Impermeabilizantes,Thermotek,PZA,691.24,890.9,8,32
+CON-0008,Varilla Holcim 25 kg,Construcción,Holcim,BULTO,476.15,560.9,6,28
+HER-0011,Juego de llaves Truper 8 m,Herramientas,Truper,PZA,1200.67,1665.9,1,3
+TOR-0036,"Clavo Hermex #8 x 1""",Tornillería,Hermex,caja,2.34,3.9,1,34
+ELE-0020,Centro de carga Bticino 20 A,Eléctrico,Bticino,Pieza,177.52,228.9,3,8
+PLO-0044,"Regadera Dica 1/2""",Plomería,Dica,PZA,896.71,1219.9,2,6
+TOR-0015,"Remache Fiero #10 x 1 1/2""",Tornillería,Fiero,CAJA,9.42,14.9,1,7
+TOR-0042,"Pija Fiero 1/4""",Tornillería,Fiero,CAJA,61.58,91.9,1,27
+CON-0005,Mortero Holcim 50 kg,Construcción,Holcim,BULTO,265.99,347.9,6,36
+TOR-0021,"Ancla Hermex 2 1/2""",Tornillería,Hermex,CAJA,38.04,58.9,5,4
+SEG-0014,Lentes seguridad Truper,Seguridad,Truper,pz,117.24,159.9,1,22
+TOR-0033,"Ancla Fiero #10 x 1 1/2""",Tornillería,Fiero,CAJA,3.84,5.9,1,17
+ELE-0009,Pastilla térmica Argos 15 A,Eléctrico,Argos,PZA,223.81,323.9,3,28
+PLO-0032,"Conector flexible Dica 1/2""",Plomería,Dica,PZA ,168.01,227.9,2,12
+CON-0007,Arena (bulto) Holcim 25 kg,Construcción,Holcim,BULTO,46.66,62.9,6,15
+ELE-0013,Lámpara LED Volteck cal. 14,Eléctrico,Volteck,PZA,96.78,139.9,3,18
+PIN-0017,"Pintura vinílica Comex 2""",Pinturas,Comex,PZA,282.11,217.42,4,5
+SEG-0017,Lentes seguridad 3M Talla G,Seguridad,3M,PZA,58.17,84.9,1,36
+ELE-0014,Centro de carga Argos 15 A,Eléctrico,Argos,PZA,222.43,308.9,3,28
+TOR-0034,"Clavo Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,20.64,31.9,5,37
+PLO-0031,"Conector flexible Dica 1/2""",Plomería,Dica,PZA,$170.51,244.9,2,32
+HER-0024,Esmeriladora Hermex,Herramientas,Hermex,PZA,951.87,1297.9,1,31
+HER-0038,"Taladro Surtek 1/2""",Herramientas,Surtek,PZA ,110.74,159.9,1,16
+PIN-0018,"Pintura vinílica Comex 9""",Pinturas,Comex,PZA,221.88,306.9,4,7
+ELE-0039,Cinta aislar Iusa,Eléctrico,Iusa,PZA,1119.74,1560.9,3,21
+PLO-0030,"Válvula esfera Coflex 2""",Plomería,Coflex,PZA,21.2,27.9,2,29
+TOR-0022,"Taquete Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,72.98,107.9,5,12
+JAR-0014,"Aspersor Truper 8""",Jardinería,Truper,PZA,170.57,230.9,1,13
+TOR-0006,"Rondana Hermex 2 1/2""",Tornillería,Hermex,CAJA,2.35,3.9,1,34
+ELE-0042,Centro de carga Volteck,Eléctrico,Volteck,PZA,304.08,427.9,3,27
+PIN-0020,Thinner Comex 19 L,Pinturas,Comex,PZA,60.25,78.9,4,34
+CON-0033,Alambre recocido Holcim,Construcción,Holcim,BULTO,50.1,62.9,6,39
+ELE-0003,Tubo conduit Argos 20 A,Eléctrico,Argos,Metro,12.12,15.9,3,34
+SEG-0004,Candado Hermex 50 mm,Seguridad,Hermex,PZA ,45.9,68.9,1,5
+TOR-0014,"Remache Fiero 1/4"" x 1""",Tornillería,Fiero,caja,36.87,56.9,5,13
+SEG-0005,Chaleco Hermex 50 mm,Seguridad,Hermex,PZA ,532.97,799.9,1,17
+JAR-0010,Aspersor Truper,Jardinería,Truper,PZA,392.98,557.9,1,32
+CON-0040,Cemento Cemex 20 kg,Construcción,Cemex,BULTO,$404.66,513.9,6,25
+TOR-0012,"Clavo Hermex 2 1/2""",Tornillería,Hermex,caja,9.38,14.9,5,16
+CON-0023,Cemento Deacero 25 kg,Construcción,Deacero,BULTO,463.57,620.9,6,34
+TOR-0019,"Clavo Fiero 2 1/2""",Tornillería,Fiero,caja,19.16,28.9,1,22
+IMP-0011,Sellador elastomérico Fester 4 L,Impermeabilizantes,Fester,PZA,1260.75,1656.9,8,20
+PIN-0003,"Sellador Berel 4""",Pinturas,Berel,PZA,165.85,199.9,4,34
+PLO-0001,Codo PVC Dica 15 m,Plomería,Dica,PZA,24.8,36.9,2,11
+HER-0012,"Llave Stilson Surtek 3/8""",Herramientas,Surtek,PZA,566.6,755.9,1,19
+CON-0001,"Yeso Holcim 3/8""",Construcción,Holcim,BULTO,$117.13,144.9,6,7
+SEG-0001,Cubrebocas 3M Talla G,Seguridad,3M,PZA,214.36,285.9,5,39
+ELE-0029,Chalupa Iusa 15 A,Eléctrico,Iusa,Pieza,57.84,81.9,3,5
+TOR-0018,"Remache Hermex 2 1/2""",Tornillería,Hermex,CAJA,1.41,1.9,1,14
+TOR-0071,"Remache Hermex #8 x 1""",Tornillería,Hermex,CAJA,3.48,4.9,5,12
+TOR-0061,"Tuerca Fischer 2 1/2""",Tornillería,Fischer,CAJA,2.09,2.9,5,13
+ELE-0034,Apagador Argos 15 A,Eléctrico,Argos,PZA,37.85,49.9,3,3
+IMP-0025,Membrana refuerzo Thermotek,Impermeabilizantes,Thermotek,PZA,292.28,381.9,4,20
+IMP-0022,Membrana refuerzo Thermotek 4 L,Impermeabilizantes,Thermotek,PZA,660.65,852.9,8,19
+SEG-0002,Casco Hermex 50 mm,Seguridad,Hermex,PZA,370.67,560.9,5,31
+IMP-0002,Impermeabilizante 5 años Comex,Impermeabilizantes,Comex,PZA,1409.36,1682.9,8,3
+TOR-0003,"Tuerca Hermex 1/4""",Tornillería,Hermex,CAJA,32.29,51.9,1,12
+JAR-0020,Machete Truper Mango largo,Jardinería,Truper,Pieza,82.41,115.9,7,9
+CON-0012,Arena (bulto) Deacero,Construcción,Deacero,BULTO,160.63,196.9,6,32
+PIN-0028,"Thinner Pintumex 2""",Pinturas,Pintumex,PZA ,467.18,666.9,4,19
+CON-0016,"Varilla Deacero 3/8""",Construcción,Deacero,BULTO,144.96,178.9,6,15
+HER-0003,Flexómetro Pretul 16 oz,Herramientas,Pretul,pza,733.79,1039.9,1,37
+ELE-0032,,Eléctrico,Bticino,MT,204.93,272.9,3,36
+TOR-0038,"Tuerca Fiero #8 x 1""",Tornillería,Fiero,CAJA,93.35,154.9,1,30
+JAR-0023 ,Aspersor Pretul Mango largo,Jardinería,Pretul,pz,614.94,799.9,7,33
+CON-0013,Alambre recocido Holcim 50 kg,Construcción,Holcim,BULTO,97.91,122.9,6,39
+ELE-0037,Cinta aislar Argos 20 A,Eléctrico,Argos,PZA ,141.25,196.9,3,19
+IMP-0015,Impermeabilizante acrílico 19L Fester 19 L,Impermeabilizantes,Fester,PZA,333.52,414.9,4,24
+CON-0021,Pegazulejo Cruz Azul 50 kg,Construcción,Cruz Azul,BULTO,266.65,330.9,6,6
+SEG-0011,Lentes seguridad 3M 50 mm,Seguridad,3M,Pieza,80.75,109.9,5,10
+PIN-0001,Thinner Pintumex 19 L,Pinturas,Pintumex,PZA ,345.4,442.9,4,3
+PLO-0037,"Regadera Rotoplas 1""",Plomería,Rotoplas,PZA,28.6,40.9,2,14
+JAR-0018,"Carretilla Pretul 8""",Jardinería,Pretul,PZA ,$528.48,726.9,7,17
+HER-0030,"Juego de llaves Pretul 24""",Herramientas,Pretul,PZA,480.19,630.9,1,15
+PLO-0046,Flotador Dica 15 m,Plomería,Dica,PZA,624.23,892.9,2,10
+JAR-0025,Carretilla Rugo,Jardinería,Rugo,PZA,542.9,808.9,7,13
+ELE-0024,Lámpara LED Argos cal. 14,Eléctrico,Argos,PZA,1145.67,1567.9,3,34
+TOR-0050,"Clavo Hermex 1/4""",Tornillería,Hermex,CAJA,4.0,5.9,5,24
+TOR-0057,"Tornillo Fischer 1/4"" x 1""",Tornillería,Fischer,CAJA,11.85,18.9,1,28
+PIN-0007,Pintura vinílica Berel 19 L,Pinturas,Berel,PZA,325.21,425.9,4,36
+TOR-0023,"Tuerca Fiero 1/4""",Tornillería,Fiero,Cja,8.62,12.9,5,35
+CON-0030,Block Cruz Azul 50 kg,Construcción,Cruz Azul,BULTO,257.82,313.9,6,32
+PLO-0007,"Conector flexible Rotoplas 1/2""",Plomería,Rotoplas,PZA,226.34,334.9,2,21
+IMP-0007,Impermeabilizante 5 años Fester 4 L,Impermeabilizantes,Fester,pz,734.57,926.9,8,15
+PLO-0028,"Tubo PVC Dica 1""",Plomería,Dica,mt,200.22,271.9,2,22
+CON-0035,Block Holcim,Construcción,Holcim,BULTO,44.77,52.9,6,23
+ELE-0002,Foco LED Iusa cal. 14,Eléctrico,Iusa,PZA,462.75,630.9,3,5
+TOR-0025,"Pija Fiero 1/4"" x 1""",Tornillería,Fiero,CAJA,70.19,105.9,1,15
+PLO-0033,"Tee PVC Foset 1/2""",Plomería,Foset,PZA ,101.08,142.9,2,24
+PIN-0033,Primario Pintumex 1 L,Pinturas,Pintumex,PZA,336.89,417.9,4,9
+HER-0013,Esmeriladora Surtek 5 m,Herramientas,Surtek,pz,559.8,743.9,1,20
+HER-0036,"Flexómetro Truper 1/2""",Herramientas,Truper,PZA,2435.24,3312.9,1,19
+HER-0029,Llave Stilson Urrea 5 m,Herramientas,Urrea,PZA,2018.37,2604.9,1,21
+TOR-0009,"Ancla Fischer 1/4""",Tornillería,Fischer,CAJA,45.64,69.9,1,3
+ pin-0016 ,Barniz Berel 1 L,Pinturas,Berel,PZA,1569.84,1993.9,4,4
+PIN-0024,"Esmalte Comex 2""",Pinturas,Comex,PZA,96.01,127.9,4,4
+ tor-0067 ,"Taquete Fiero 1/4"" x 1""",Tornillería,Fiero,CAJA,6.74,10.9,1,34
+TOR-0060,"Clavo Fiero 1/4""",Tornillería,Fiero,CAJA,46.37,68.9,5,36
+PIN-0005,Rodillo Pintumex 19 L,Pinturas,Pintumex,Pieza,1792.32,2383.9,4,32
+IMP-0010 ,Membrana refuerzo Thermotek,Impermeabilizantes,Thermotek,PZA,412.93,312.37,8,15
+PLO-0014,Flotador Dica 15 m,Plomería,Dica,PZA,19.7,16.62,2,6
+JAR-0022,Tijera podar Truper,Jardinería,Truper,PZA,42.1,55.9,7,33
+ELE-0012,Lámpara LED Bticino cal. 12,Eléctrico,Bticino,PZA,28.35,35.9,3,18
+JAR-0002,Rastrillo Rugo Mango largo,Jardinería,Rugo,PZA ,180.58,243.9,1,34
+TOR-0017,,Tornillería,Fiero,CAJA,66.5,103.9,1,6
+TOR-0043,"Ancla Fiero 1/4""",Tornillería,Fiero,CAJA,3.89,5.9,5,36
+ELE-0040,Contacto Bticino cal. 12,Eléctrico,Bticino,PZA,15.01,19.9,3,32
+PLO-0004,"Tubo PVC Coflex 3/4""",Plomería,Coflex,MT,240.48,306.9,2,7
+ELE-0006,Cable THW Argos cal. 12,Eléctrico,Argos,MT,689.13,874.9,3,4
+JAR-0013,Carretilla Rugo Mango largo,Jardinería,Rugo,PZA,32.87,41.9,7,11
+TOR-0045,"Pija Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,107.04,166.9,5,19
+PIN-0010,Barniz Comex 19 L,Pinturas,Comex,PZA,133.48,162.9,4,36
+HER-0027,"Juego de llaves Truper 1/2""",Herramientas,Truper,Pieza,$591.14,748.9,1,37
+IMP-0028,Impermeabilizante 10 años Fester 19 L,Impermeabilizantes,Fester,PZA,349.67,442.9,4,38
+PIN-0015,Esmalte Berel 4 L,Pinturas,Berel,PZA,552.84,715.9,4,6
+ con-0014 ,"Cemento Cemex 3/8""",Construcción,Cemex,BULTO,108.73,128.9,6,19
+JAR-0026,"Pala Pretul 8""",Jardinería,Pretul,PZA ,113.39,143.9,7,22
+HER-0005,Desarmador Surtek 5 m,Herramientas,Surtek,PZA,2260.15,1674.16,1,16
+HER-0001,Desarmador Surtek 5 m,Herramientas,Surtek,Pieza,1536.62,2160.9,1,19
+SEG-0022,Candado Hermex,Seguridad,Hermex,PZA,356.43,539.9,1,6
+SEG-0023,Cubrebocas Truper 50 mm,Seguridad,Truper,PZA,139.97,190.9,1,33
+IMP-0003,Impermeabilizante 10 años Fester,Impermeabilizantes,Fester,PZA,537.58,695.9,4,20
+ ele-0017 ,Clavija Argos cal. 14,Eléctrico,Argos,PZA,45.06,59.9,3,32
+TOR-0065 ,"Pija Fischer #8 x 1""",Tornillería,Fischer,CAJA,36.3,59.9,1,14
+SEG-0009,Lentes seguridad Hermex Talla M,Seguridad,Hermex,PZA,243.65,336.9,1,11
+TOR-0052,"Tornillo Hermex 1/4""",Tornillería,Hermex,Cja,55.56,85.9,1,31
+TOR-0010,"Taquete Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,108.64,168.9,1,29
+ELE-0015,Contacto Iusa 9 W,Eléctrico,Iusa,PZA,78.89,108.9,3,23
+TOR-0054,"Clavo Fischer 2 1/2""",Tornillería,Fischer,caja,109.47,170.9,1,8
+PLO-0024,"Regadera Rotoplas 2""",Plomería,Rotoplas,Pieza,44.66,61.9,2,26
+PLO-0010,"Cople cobre Dica 1""",Plomería,Dica,Pieza,372.84,266.49,2,20
+HER-0033,Llave Stilson Truper 5 m,Herramientas,Truper,PZA ,176.7,227.9,1,36
+TOR-0039,"Remache Hermex 1/4"" x 1""",Tornillería,Hermex,CAJA,11.43,17.9,1,15
+SEG-0020,Cubrebocas 3M Talla G,Seguridad,3M,PZA,43.55,63.9,5,25
+HER-0028,Llave Stilson Truper 16 oz,Herramientas,Truper,PZA,420.79,575.9,1,38
+JAR-0009,Rastrillo Pretul 5 pies3,Jardinería,Pretul,PZA,117.66,159.9,7,22
+TOR-0069,"Clavo Fiero 1/4""",Tornillería,Fiero,caja,23.13,34.9,5,12
+CON-0028,Alambre recocido Cemex 50 kg,Construcción,Cemex,BULTO,366.76,432.9,6,5
+TOR-0001,,Tornillería,Hermex,CAJA,23.98,34.9,5,10
+SEG-0007,Lentes seguridad Truper Talla M,Seguridad,Truper,pz,24.77,34.9,5,17
+PIN-0012,Aerosol Comex 4 L,Pinturas,Comex,PZA,101.8,73.76,4,14
+PLO-0025,"Tee PVC Rotoplas 2""",Plomería,Rotoplas,PZA,67.54,97.9,2,11
+PIN-0009,Aerosol Berel 19 L,Pinturas,Berel,pza,1566.82,2066.9,4,18
+PIN-0002,"Charola Berel 4""",Pinturas,Berel,PZA,589.12,740.9,4,36
+HER-0009,Caladora Urrea 16 oz,Herramientas,Urrea,PZA,891.01,1231.9,1,33
+PLO-0027,"Flotador Rotoplas 2""",Plomería,Rotoplas,PZA ,134.33,201.9,2,15
+HER-0015,Caladora Pretul 16 oz,Herramientas,Pretul,PZA,1509.38,1934.9,1,18
+PIN-0030,"Sellador Berel 2""",Pinturas,Berel,PZA,78.26,104.9,4,14
+PLO-0003,"Conector flexible Dica 3/4""",Plomería,Dica,PZA,116.54,161.9,2,38
+IMP-0006,Impermeabilizante 5 años Comex 19 L,Impermeabilizantes,Comex,PZA,1518.72,1948.9,4,19
+JAR-0019,"Rastrillo Truper 8""",Jardinería,Truper,PZA,974.61,1325.9,1,7
+TOR-0055,,Tornillería,Fiero,CAJA,23.96,34.9,1,29
+JAR-0007,"Carretilla Truper 8""",Jardinería,Truper,PZA,324.37,453.9,1,32
+SEG-0012,Candado 3M Talla G,Seguridad,3M,PZA,23.06,34.9,5,36
+CON-0004,"Malla electrosoldada Deacero 3/8""",Construcción,Deacero,BULTO,543.08,686.9,6,15
+TOR-0046,"Rondana Hermex #10 x 1 1/2""",Tornillería,Hermex,CAJA,65.99,105.9,5,19
+TOR-0051,"Pija Fiero 1/4""",Tornillería,Fiero,Cja,61.56,92.9,1,16
+IMP-0004,Impermeabilizante 5 años Fester 4 L,Impermeabilizantes,Fester,PZA ,1678.31,2209.9,8,22
+CON-0019,Yeso Cruz Azul,Construcción,Cruz Azul,BULTO,531.05,668.9,6,6
+ELE-0027,Contacto Bticino cal. 14,Eléctrico,Bticino,PZA,165.7,204.9,3,21
+IMP-0005,Impermeabilizante 10 años Comex,Impermeabilizantes,Comex,PZA,1707.73,2265.9,8,31
+CON-0037,Mortero Cemex,Construcción,Cemex,BULTO,61.75,73.9,6,5
+TOR-0040,"Clavo Hermex #8 x 1""",Tornillería,Hermex,caja,7.06,10.9,5,7
+PIN-0035,Pintura vinílica Pintumex 19 L,Pinturas,Pintumex,PZA,497.29,651.9,4,22
+PLO-0006,Tee PVC Foset 15 m,Plomería,Foset,pz,$24.90,35.9,2,7
+TOR-0056,"Ancla Fiero #10 x 1 1/2""",Tornillería,Fiero,CAJA,14.06,21.9,5,28
+TOR-0029,"Remache Hermex 1/4"" x 1""",Tornillería,Hermex,caja,6.8,9.9,5,27
+CON-0027,Block Cruz Azul,Construcción,Cruz Azul,bulto,217.42,280.9,6,37
+ELE-0022,Apagador Argos 20 A,Eléctrico,Argos,PZA,215.04,295.9,3,17
+PLO-0016,"Tee PVC Rotoplas 1""",Plomería,Rotoplas,PZA ,24.07,32.9,2,8
+HER-0002,Flexómetro Hermex 8 m,Herramientas,Hermex,PZA,1197.12,1614.9,1,31
+PLO-0012,"Conector flexible Dica 2""",Plomería,Dica,PZA,81.23,108.9,2,25
+PLO-0043,"Cople cobre Dica 1""",Plomería,Dica,PZA ,889.14,1247.9,2,7
+TOR-0044 ,"Remache Fischer #10 x 1 1/2""",Tornillería,Fischer,CAJA,28.73,43.9,1,25
+HER-0035,Nivel Pretul 5 m,Herramientas,Pretul,PZA,193.07,252.9,1,22
+CON-0031,"Pegazulejo Cruz Azul 3/8""",Construcción,Cruz Azul,BULTO,171.57,192.9,6,19
+ELE-0008,Foco LED Argos,Eléctrico,Argos,PZA,20.03,28.9,3,24
+PLO-0015,"Tubo PVC Dica 3/4""",Plomería,Dica,MT,27.03,38.9,2,14
+CON-0032,Mortero Holcim 25 kg,Construcción,Holcim,Bto,52.39,66.9,6,10
+CON-0009,Cemento Cemex 50 kg,Construcción,Cemex,bulto,$225.04,257.9,6,10
+HER-0014,Flexómetro Urrea,Herramientas,Urrea,PZA,227.75,302.9,1,23
+ELE-0005,Cable THW Bticino cal. 12,Eléctrico,Bticino,MT,1091.5,1415.9,3,29
+JAR-0001,Machete Pretul,Jardinería,Pretul,PZA,650.09,911.9,7,23
+TOR-0005,"Clavo Hermex 2 1/2""",Tornillería,Hermex,CAJA,70.75,107.9,5,8
+IMP-0029,Impermeabilizante acrílico 19L Fester 19 L,Impermeabilizantes,Fester,pz,1008.98,1286.9,8,31
+PIN-0008,Pintura vinílica Comex 19 L,Pinturas,Comex,PZA,63.72,80.9,4,10
+SEG-0008,Guantes Hermex,Seguridad,Hermex,PZA,38.21,56.9,1,39
+IMP-0021,Membrana refuerzo Comex 4 L,Impermeabilizantes,Comex,PZA,970.22,1264.9,8,28
+SEG-0021,Chaleco Truper Talla M,Seguridad,Truper,PZA,24.1,36.9,5,14
+CON-0011,Cemento Cemex 25 kg,Construcción,Cemex,BULTO,$563.29,705.9,6,36
+PLO-0017,Tubo PVC Coflex 15 m,Plomería,Coflex,MT,168.75,246.9,2,4
+PLO-0013,"Conector flexible Dica 3/4""",Plomería,Dica,pza,41.38,54.9,2,19
+TOR-0013,"Ancla Fiero #8 x 1""",Tornillería,Fiero,CAJA,26.51,37.9,5,3
+TOR-0028,"Tuerca Fiero #8 x 1""",Tornillería,Fiero,CAJA,$1.15,1.9,5,36
+PIN-0029,Charola Pintumex 1 L,Pinturas,Pintumex,PZA,909.26,1223.9,4,14
+TOR-0026,"Tuerca Hermex #10 x 1 1/2""",Tornillería,Hermex,CAJA,13.05,19.9,5,7
+TOR-0008,"Clavo Fiero 1/4""",Tornillería,Fiero,CAJA,33.13,51.9,1,24
+PLO-0021,"Tee PVC Coflex 1""",Plomería,Coflex,PZA,22.51,32.9,2,37
+PLO-0011,"Llave de paso Dica 3/4""",Plomería,Dica,PZA,38.88,53.9,2,32
+CON-0003,Cemento Cruz Azul,Construcción,Cruz Azul,bulto,242.45,304.9,6,34
+CON-0020,Yeso Cruz Azul,Construcción,Cruz Azul,BULTO,119.48,147.9,6,37
+HER-0022,Llave Stilson Surtek 8 m,Herramientas,Surtek,PZA,204.2,263.9,1,19
+SEG-0015,Candado Truper 50 mm,Seguridad,Truper,PZA,91.38,133.9,1,37
+PIN-0034,"Barniz Comex 2""",Pinturas,Comex,PZA,438.26,578.9,4,39
+JAR-0004,Rastrillo Rugo 5 pies3,Jardinería,Rugo,pz,28.87,39.9,1,34
+TOR-0030,"Taquete Fiero 2 1/2""",Tornillería,Fiero,Cja,34.83,49.9,1,8
+JAR-0021,"Azadón Truper 8""",Jardinería,Truper,PZA,51.22,72.9,1,20
+CON-0025,,Construcción,Cemex,BULTO,434.63,499.9,6,37
+SEG-0010,Casco Hermex,Seguridad,Hermex,PZA,97.69,131.9,1,28
+PIN-0023,Charola Comex 4 L,Pinturas,Comex,PZA,70.78,88.9,4,37
+PIN-0004,"Esmalte Comex 2""",Pinturas,Comex,PZA,113.57,153.9,4,35
+PIN-0025,"Barniz Comex 4""",Pinturas,Comex,PZA,87.41,103.9,4,4
+ELE-0016,Lámpara LED Argos 20 A,Eléctrico,Argos,PZA,696.61,985.9,3,30
+ELE-0004,Cinta aislar Argos cal. 12,Eléctrico,Argos,PZA,$21.02,26.9,3,34
+IMP-0008,Impermeabilizante 10 años Fester,Impermeabilizantes,Fester,PZA,1952.61,2475.9,8,16
+TOR-0053,"Tornillo Hermex #10 x 1 1/2""",Tornillería,Hermex,CAJA,2.51,3.9,1,3
+ELE-0038,Apagador Iusa cal. 12,Eléctrico,Iusa,PZA,335.43,429.9,3,13
+ELE-0043,Clavija Argos 9 W,Eléctrico,Argos,PZA,12.64,16.9,3,32
+HER-0021,"Taladro Hermex 3/8""",Herramientas,Hermex,pza,199.77,284.9,1,28
+TOR-0027,"Taquete Fischer 1/4"" x 1""",Tornillería,Fischer,CAJA,$95.92,149.9,5,16
+PLO-0034,"Conector flexible Dica 1""",Plomería,Dica,PZA,174.69,237.9,2,21
+ELE-0023,Chalupa Argos 9 W,Eléctrico,Argos,Pieza,22.13,31.9,3,9
+CON-0038,Malla electrosoldada Cruz Azul 25 kg,Construcción,Cruz Azul,bulto,138.33,175.9,6,9
+IMP-0026,Impermeabilizante 5 años Comex 4 L,Impermeabilizantes,Comex,PZA,2026.38,2440.9,8,24
+ELE-0019,Clavija Bticino cal. 12,Eléctrico,Bticino,PZA,10.73,13.9,3,30

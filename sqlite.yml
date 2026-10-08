@@ -1,0 +1,9 @@
+apiVersion: 1
+datasources:
+  - name: Ferreteria SQLite
+    uid: ferreteria-sqlite
+    type: frser-sqlite-datasource
+    access: proxy
+    isDefault: true
+    jsonData:
+      path: /var/lib/grafana/ferreteria.db

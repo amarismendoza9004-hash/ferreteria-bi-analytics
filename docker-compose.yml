@@ -1,0 +1,15 @@
+# Grafana con la base SQLite del proyecto.
+# Uso (desde la carpeta grafana/):  docker compose up -d   ->  http://localhost:3000  (admin / admin)
+services:
+  grafana:
+    image: grafana/grafana:11.2.0
+    container_name: grafana-ferreteria
+    ports:
+      - "3000:3000"
+    environment:
+      - GF_INSTALL_PLUGINS=frser-sqlite-datasource
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_DASHBOARDS_DEFAULT_HOME_DASHBOARD_PATH=/etc/grafana/provisioning/dashboards/ferreteria.json
+    volumes:
+      - ./provisioning:/etc/grafana/provisioning
+      - ../data/processed/ferreteria.db:/var/lib/grafana/ferreteria.db:ro

@@ -1,0 +1,26 @@
+﻿sku,descripcion,proveedor,dias_entrega,existencia_fisica,stock_minimo,venta_diaria,dias_cobertura,prioridad
+PLO-0024,"Regadera Rotoplas 2""",Coflex Bajío,7,0,26,0.16,0.0,URGENTE
+PIN-0001,Thinner Pintumex 19 L,Pinturas y Recubrimientos MX,6,0,3,0.84,0.0,URGENTE
+JAR-0012,Carretilla Pretul,Distribuidora Truper Occidente,5,0,6,1.14,0.0,URGENTE
+TOR-0058,"Rondana Fiero #8 x 1""",Tornillos y Fijaciones SA,4,2,4,3.27,0.6,URGENTE
+PLO-0017,Tubo PVC Coflex 15 m,Coflex Bajío,7,3,4,3.66,0.8,URGENTE
+TOR-0035,"Clavo Fischer 1/4""",Tornillos y Fijaciones SA,4,3,5,3.11,1.0,URGENTE
+IMP-0020,Impermeabilizante 10 años Thermotek 19 L,Impermeabilizantes del Pacífico,6,6,15,5.91,1.0,URGENTE
+TOR-0025,"Pija Fiero 1/4"" x 1""",Distribuidora Truper Occidente,5,13,15,11.06,1.2,URGENTE
+ELE-0023,Chalupa Argos 9 W,Eléctricos del Centro,3,4,9,3.13,1.3,URGENTE
+PIN-0024,"Esmalte Comex 2""",Pinturas y Recubrimientos MX,6,1,4,0.66,1.5,URGENTE
+ELE-0001,Cable THW Volteck cal. 12,Eléctricos del Centro,3,2,4,1.18,1.7,URGENTE
+ELE-0005,Cable THW Bticino cal. 12,Eléctricos del Centro,3,6,29,3.63,1.7,URGENTE
+IMP-0014,Sellador elastomérico Fester 19 L,Impermeabilizantes del Pacífico,6,12,17,6.67,1.8,URGENTE
+TOR-0011,"Rondana Hermex 1/4""",Tornillos y Fijaciones SA,4,10,17,5.14,1.9,URGENTE
+TOR-0054,"Clavo Fischer 2 1/2""",Distribuidora Truper Occidente,5,6,8,2.94,2.0,URGENTE
+IMP-0003,Impermeabilizante 10 años Fester,Pinturas y Recubrimientos MX,6,7,20,3.57,2.0,URGENTE
+IMP-0026,Impermeabilizante 5 años Comex 4 L,Impermeabilizantes del Pacífico,6,7,24,3.52,2.0,URGENTE
+ELE-0007,Centro de carga Volteck 20 A,Eléctricos del Centro,3,3,9,1.42,2.1,URGENTE
+CON-0007,Arena (bulto) Holcim 25 kg,Materiales La Huerta,2,8,15,3.0,2.7,Programar
+CON-0030,Block Cruz Azul 50 kg,Materiales La Huerta,2,7,32,2.37,3.0,Programar
+TOR-0055,SIN DESCRIPCIÓN - REVISAR,Distribuidora Truper Occidente,5,13,29,3.87,3.4,URGENTE
+JAR-0015,Carretilla Rugo 5 pies3,Distribuidora Truper Occidente,5,1,18,0.29,3.5,URGENTE
+PIN-0015,Esmalte Berel 4 L,Pinturas y Recubrimientos MX,6,3,6,0.84,3.6,URGENTE
+CON-0025,SIN DESCRIPCIÓN - REVISAR,Materiales La Huerta,2,9,37,1.93,4.7,Programar
+PLO-0025,"Tee PVC Rotoplas 2""",Coflex Bajío,7,4,11,0.81,4.9,URGENTE

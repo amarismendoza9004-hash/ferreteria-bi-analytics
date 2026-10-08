@@ -1,0 +1,336 @@
+{
+  "uid": "ferreteria-bi",
+  "title": "Ferretería · Operación y ventas",
+  "timezone": "browser",
+  "schemaVersion": 39,
+  "time": {
+    "from": "2024-07-01T00:00:00Z",
+    "to": "2026-06-30T23:59:59Z"
+  },
+  "panels": [
+    {
+      "id": 1,
+      "type": "stat",
+      "title": "Ventas netas (12 meses)",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 6,
+        "x": 0,
+        "y": 0
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT SUM(importe) AS valor FROM fact_ventas WHERE fecha >= '2025-07-01'",
+          "queryText": "SELECT SUM(importe) AS valor FROM fact_ventas WHERE fecha >= '2025-07-01'"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "currencyMXN",
+          "decimals": 1,
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          }
+        }
+      },
+      "options": {
+        "colorMode": "none",
+        "graphMode": "none",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ]
+        }
+      }
+    },
+    {
+      "id": 2,
+      "type": "stat",
+      "title": "Margen bruto % (12 meses)",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 6,
+        "x": 6,
+        "y": 0
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT 100.0*SUM(utilidad)/SUM(importe) AS valor FROM fact_ventas WHERE fecha >= '2025-07-01'",
+          "queryText": "SELECT 100.0*SUM(utilidad)/SUM(importe) AS valor FROM fact_ventas WHERE fecha >= '2025-07-01'"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "percent",
+          "decimals": 1,
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          }
+        }
+      },
+      "options": {
+        "colorMode": "none",
+        "graphMode": "none",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ]
+        }
+      }
+    },
+    {
+      "id": 3,
+      "type": "stat",
+      "title": "Faltante de inventario",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 6,
+        "x": 12,
+        "y": 0
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT SUM(valor_diferencia) AS valor FROM inventario WHERE diferencia < 0",
+          "queryText": "SELECT SUM(valor_diferencia) AS valor FROM inventario WHERE diferencia < 0"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "currencyMXN",
+          "decimals": 1,
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          }
+        }
+      },
+      "options": {
+        "colorMode": "none",
+        "graphMode": "none",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ]
+        }
+      }
+    },
+    {
+      "id": 4,
+      "type": "stat",
+      "title": "SKUs bajo mínimo",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 4,
+        "w": 6,
+        "x": 18,
+        "y": 0
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT COUNT(*) AS valor FROM inventario WHERE bajo_minimo = 1",
+          "queryText": "SELECT COUNT(*) AS valor FROM inventario WHERE bajo_minimo = 1"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "none",
+          "decimals": 1,
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          }
+        }
+      },
+      "options": {
+        "colorMode": "none",
+        "graphMode": "none",
+        "reduceOptions": {
+          "calcs": [
+            "lastNotNull"
+          ]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "type": "timeseries",
+      "title": "Venta diaria",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 9,
+        "w": 24,
+        "x": 0,
+        "y": 4
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT CAST(strftime('%s', fecha_dia) AS INTEGER) AS time, SUM(importe) AS ventas FROM fact_ventas WHERE CAST(strftime('%s', fecha_dia) AS INTEGER) BETWEEN $__from/1000 AND $__to/1000 GROUP BY fecha_dia ORDER BY fecha_dia",
+          "queryText": "SELECT CAST(strftime('%s', fecha_dia) AS INTEGER) AS time, SUM(importe) AS ventas FROM fact_ventas WHERE CAST(strftime('%s', fecha_dia) AS INTEGER) BETWEEN $__from/1000 AND $__to/1000 GROUP BY fecha_dia ORDER BY fecha_dia",
+          "timeColumns": [
+            "time"
+          ]
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "unit": "currencyMXN",
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          },
+          "custom": {
+            "lineWidth": 1
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "type": "barchart",
+      "title": "Ventas por categoría",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 9,
+        "w": 12,
+        "x": 0,
+        "y": 13
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT p.categoria, SUM(v.importe) AS ventas FROM fact_ventas v JOIN dim_producto p ON p.sku = v.sku GROUP BY p.categoria ORDER BY ventas DESC",
+          "queryText": "SELECT p.categoria, SUM(v.importe) AS ventas FROM fact_ventas v JOIN dim_producto p ON p.sku = v.sku GROUP BY p.categoria ORDER BY ventas DESC"
+        }
+      ],
+      "options": {
+        "orientation": "horizontal",
+        "xField": "categoria"
+      },
+      "fieldConfig": {
+        "defaults": {
+          "unit": "currencyMXN",
+          "color": {
+            "mode": "fixed",
+            "fixedColor": "#2a78d6"
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "type": "table",
+      "title": "Reabastecimiento urgente",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 9,
+        "w": 12,
+        "x": 12,
+        "y": 13
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT i.sku, p.descripcion, i.existencia_fisica AS existencia, p.stock_minimo AS minimo, pr.nombre AS proveedor\nFROM inventario i JOIN dim_producto p ON p.sku = i.sku JOIN dim_proveedor pr ON pr.proveedor_id = p.proveedor_id\nWHERE i.bajo_minimo = 1 ORDER BY i.existencia_fisica ASC LIMIT 20",
+          "queryText": "SELECT i.sku, p.descripcion, i.existencia_fisica AS existencia, p.stock_minimo AS minimo, pr.nombre AS proveedor\nFROM inventario i JOIN dim_producto p ON p.sku = i.sku JOIN dim_proveedor pr ON pr.proveedor_id = p.proveedor_id\nWHERE i.bajo_minimo = 1 ORDER BY i.existencia_fisica ASC LIMIT 20"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "type": "table",
+      "title": "Margen en riesgo por aumento del proveedor (< 15%)",
+      "datasource": {
+        "type": "frser-sqlite-datasource",
+        "uid": "ferreteria-sqlite"
+      },
+      "gridPos": {
+        "h": 9,
+        "w": 24,
+        "x": 0,
+        "y": 22
+      },
+      "targets": [
+        {
+          "refId": "A",
+          "datasource": {
+            "type": "frser-sqlite-datasource",
+            "uid": "ferreteria-sqlite"
+          },
+          "queryType": "table",
+          "rawQueryText": "SELECT pp.sku, p.descripcion, ROUND(100*pp.aumento_costo_pct,1) AS aumento_pct,\nROUND(100*pp.margen_actual_pct,1) AS margen_actual, ROUND(100*pp.margen_con_costo_nuevo_pct,1) AS margen_nuevo\nFROM precios_proveedor pp JOIN dim_producto p ON p.sku = pp.sku\nWHERE pp.margen_con_costo_nuevo_pct < 0.15 ORDER BY margen_nuevo ASC",
+          "queryText": "SELECT pp.sku, p.descripcion, ROUND(100*pp.aumento_costo_pct,1) AS aumento_pct,\nROUND(100*pp.margen_actual_pct,1) AS margen_actual, ROUND(100*pp.margen_con_costo_nuevo_pct,1) AS margen_nuevo\nFROM precios_proveedor pp JOIN dim_producto p ON p.sku = pp.sku\nWHERE pp.margen_con_costo_nuevo_pct < 0.15 ORDER BY margen_nuevo ASC"
+        }
+      ]
+    }
+  ],
+  "tags": [
+    "ferreteria",
+    "bi"
+  ]
+}
